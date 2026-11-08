@@ -392,7 +392,7 @@ Rules:
 
 ${n}
 
-You must respond with the exact JSON contract the user describes.`,l=`You are ${i}. It is the start of your turn.`,u=r?`
+Yalnızca Türkçe yanıt ver. Oyuncuya gösterilen bütün açıklamalar ve özetler Türkçe olmalı. İngilizce cümle kurma. JSON alan adlarını ve bölge kimliklerini değiştirme; istenen geçerli JSON biçimini aynen koru.`,l=`You are ${i}. It is the start of your turn.`,u=r?`
 
 Your previous plan was disrupted: ${r} Build a FRESH plan from the current state; do not repeat moves that already happened.
 `:"",d=`${l}${u}
